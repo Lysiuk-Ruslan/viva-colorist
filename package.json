@@ -2,7 +2,7 @@
   "name": "viva-colorist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Lysiuk-Ruslan/viva-colorist/",
+  "homepage": "https://Lysiuk-Ruslan.github.io/viva-colorist/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
