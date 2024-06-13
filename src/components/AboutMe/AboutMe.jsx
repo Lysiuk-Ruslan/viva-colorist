@@ -8,8 +8,8 @@ export default function AboutMe() {
   return (
     <section>
       <h2>Декілька слів про мене</h2>
-      <img src={vectorDesktop} width="240" />
-      <img src={myPhoto} width="740" />
+      <img src={vectorDesktop} alt="alt-text" width="240" />
+      <img src={myPhoto} alt="alt-text" width="740" />
       <p>
         Мене звати Іванна Венгринська. Я сертифікований майстер
         перукар-колорист. Моя любов до перукарської справи народилася ще з
