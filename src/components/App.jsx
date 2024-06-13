@@ -1,16 +1,26 @@
+// import React from 'react';
+import Header from './Header/Header';
+import Banner from './Banner/Banner';
+import AboutMe from './AboutMe/AboutMe';
+import Advantages from './Advantages/Advantages';
+import Favor from './Favor/Favor';
+import Form from './Form/Form';
+import MyWorks from './MyWorks/MyWorks';
+import Footer from './Footer/Footer';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
+    <div>
+      <Header />
+      <main>
+        <Banner />
+        <AboutMe />
+        <Advantages />
+        <Favor />
+        <MyWorks />
+        <Form />
+      </main>
+      <Footer />
     </div>
   );
 };
