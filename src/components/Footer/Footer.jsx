@@ -10,10 +10,10 @@ import Ruka from 'svg/Ruka.svg';
 export default function Footer() {
   return (
     <footer>
-      <img src={VectorFooter} width="691" height="398" />
+      <img src={VectorFooter} alt="alt-text" width="691" height="398" />
       <a href="/">
         <span>V’IVA</span>
-        <img src={VectorLogo} width="50" height="60" />
+        <img src={VectorLogo} alt="alt-text" width="50" height="60" />
         <span>colorist</span>
       </a>
       <p>ivanna venhrynska</p>
@@ -26,13 +26,13 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer nofollow"
           >
-            <img src={Geolokacija} width="40" height="40" />
+            <img src={Geolokacija} alt="alt-text" width="40" height="40" />
             <p>м. Коломия, вул. Валова, 29</p>
           </a>
         </li>
         <li>
           <a href="tel:+380961111111" class="footer__address__link">
-            <img src={Phone} width="40" height="40" />
+            <img src={Phone} alt="alt-text" width="40" height="40" />
             <p>+38 096 111 11 11</p>
           </a>
         </li>
@@ -40,7 +40,7 @@ export default function Footer() {
       <p>
         WebStudio<span>“R U K A”</span>
       </p>
-      <img src={Ruka} width="16" height="16" />
+      <img src={Ruka} alt="alt-text" width="16" height="16" />
       <p>Всі права захищені 2024</p>
     </footer>
   );

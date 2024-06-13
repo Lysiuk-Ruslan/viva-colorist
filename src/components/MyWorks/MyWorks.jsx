@@ -13,7 +13,7 @@ export default function MyWorks() {
         rel="noopener noreferrer nofollow"
       >
         <p>Більше робіт в соцмережах</p>
-        <img src={Instagram} width="40" height="40" />
+        <img src={Instagram} alt="Instagram" width="40" height="40" />
       </a>
     </section>
   );

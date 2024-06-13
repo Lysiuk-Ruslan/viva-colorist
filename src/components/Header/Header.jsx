@@ -9,7 +9,7 @@ export default function Header() {
       <nav>
         <a href="/">
           <span>V’IVA</span>
-          <img src={vectorLogo} width="50" height="60" />
+          <img src={vectorLogo} alt="alt-text" width="50" height="60" />
           <span>colorist</span>
         </a>
         <ul>

@@ -14,27 +14,27 @@ export default function Advantages() {
       <h2>Чому клієнти обирають мене ?</h2>
       <ul>
         <li>
-          <img src={Vector1} width="132" height="128" />
+          <img src={Vector1} alt="alt-text" width="132" height="128" />
           <p>Індивідуальний підхід</p>
         </li>
         <li>
-          <img src={Vector2} width="132" height="128" />
+          <img src={Vector2} alt="alt-text" width="132" height="128" />
           <p>Індивідуальний підхід</p>
         </li>
         <li>
-          <img src={Vector3} width="132" height="128" />
+          <img src={Vector3} alt="alt-text" width="132" height="128" />
           <p>Індивідуальний підхід</p>
         </li>
         <li>
-          <img src={Vector4} width="132" height="128" />
+          <img src={Vector4} alt="alt-text" width="132" height="128" />
           <p>Індивідуальний підхід</p>
         </li>
         <li>
-          <img src={Vector5} width="132" height="128" />
+          <img src={Vector5} alt="alt-text" width="132" height="128" />
           <p>Індивідуальний підхід</p>
         </li>
         <li>
-          <img src={Vector6} width="132" height="128" />
+          <img src={Vector6} alt="alt-text" width="132" height="128" />
           <p>Індивідуальний підхід</p>
         </li>
       </ul>
