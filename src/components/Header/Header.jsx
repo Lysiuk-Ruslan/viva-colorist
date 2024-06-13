@@ -14,16 +14,16 @@ export default function Header() {
         </a>
         <ul>
           <li>
-            <a href="">Про мене</a>
+            <a href="/">Про мене</a>
           </li>
           <li>
-            <a href="">Галерея</a>
+            <a href="/">Галерея</a>
           </li>
           <li>
-            <a href="">Послуги</a>
+            <a href="/">Послуги</a>
           </li>
           <li>
-            <a href="">Контакти</a>
+            <a href="/">Контакти</a>
           </li>
         </ul>
         <a href="tel:+380973901222">+380973901222</a>
