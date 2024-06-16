@@ -1,34 +1,15 @@
 {
   "files": {
-    "main.css": "/viva-colorist/static/css/main.7acaea2f.css",
-    "main.js": "/viva-colorist/static/js/main.752823a4.js",
-    "static/media/Form.svg": "/viva-colorist/static/media/Form.b1a316dbaef7dd49332975ba5b6acb95.svg",
-    "static/media/FavorDesktop3.jpg": "/viva-colorist/static/media/FavorDesktop3.048ffbb4e57c0eaf84d4.jpg",
-    "static/media/Desktop.jpg": "/viva-colorist/static/media/Desktop.932567dd13fd1fa23d9a.jpg",
-    "static/media/FavorDesktop4.jpg": "/viva-colorist/static/media/FavorDesktop4.f26101368c05b42d1bf7.jpg",
-    "static/media/FavorDesktop6.jpg": "/viva-colorist/static/media/FavorDesktop6.3823501fa8ae6a16b63b.jpg",
-    "static/media/FavorDesktop2.jpg": "/viva-colorist/static/media/FavorDesktop2.63e94a73e55309ee973d.jpg",
-    "static/media/FavorDesktop1.jpg": "/viva-colorist/static/media/FavorDesktop1.241bd96fc66c38be2cb6.jpg",
-    "static/media/FavorDesktop5.jpg": "/viva-colorist/static/media/FavorDesktop5.b10d064db32ffe84d598.jpg",
-    "static/media/Vector2.svg": "/viva-colorist/static/media/Vector2.7c4e496329bfbe8c7d9a0ad9c55e33d9.svg",
-    "static/media/VectorFooter.svg": "/viva-colorist/static/media/VectorFooter.fcb905ad19b2301289b6999d604445dd.svg",
+    "main.css": "/viva-colorist/static/css/main.6612a1fb.css",
+    "main.js": "/viva-colorist/static/js/main.85e2f247.js",
     "static/media/Vectordesktop.svg": "/viva-colorist/static/media/Vectordesktop.e4affe6c51875887572c0181637ebc58.svg",
-    "static/media/Vector6.svg": "/viva-colorist/static/media/Vector6.b817fecb454d91bc1384448245363d2a.svg",
-    "static/media/Ruka.svg": "/viva-colorist/static/media/Ruka.13e6019a5a02be74299e6b8e89449eff.svg",
-    "static/media/Vector5.svg": "/viva-colorist/static/media/Vector5.161ead8eb4419744c439ad7b70127289.svg",
-    "static/media/Instagram.svg": "/viva-colorist/static/media/Instagram.74114cb60afd095038a16a08d0d70b28.svg",
-    "static/media/Vector1.svg": "/viva-colorist/static/media/Vector1.8e45e1609181055b55426b350e30d36f.svg",
-    "static/media/Vector3.svg": "/viva-colorist/static/media/Vector3.728fcb9d1634bfa42e9818a71aa3f246.svg",
-    "static/media/Geolokacija.svg": "/viva-colorist/static/media/Geolokacija.f51b0470c735bbb67f4d1e0eb5ec7908.svg",
-    "static/media/Vectorlogo.svg": "/viva-colorist/static/media/Vectorlogo.f00b7be1b676e92ff37404f9f42d318e.svg",
-    "static/media/Vector4.svg": "/viva-colorist/static/media/Vector4.3ee66486bcf6d3b66b7ebb204dec6985.svg",
-    "static/media/Phone.svg": "/viva-colorist/static/media/Phone.9e3608a90d85bcbed0e646c9e8c6539f.svg",
+    "static/media/MyFotoMobile.webp": "/viva-colorist/static/media/MyFotoMobile.57f426ac95011f5f82bc.webp",
     "index.html": "/viva-colorist/index.html",
-    "main.7acaea2f.css.map": "/viva-colorist/static/css/main.7acaea2f.css.map",
-    "main.752823a4.js.map": "/viva-colorist/static/js/main.752823a4.js.map"
+    "main.6612a1fb.css.map": "/viva-colorist/static/css/main.6612a1fb.css.map",
+    "main.85e2f247.js.map": "/viva-colorist/static/js/main.85e2f247.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.752823a4.js"
+    "static/css/main.6612a1fb.css",
+    "static/js/main.85e2f247.js"
   ]
 }
