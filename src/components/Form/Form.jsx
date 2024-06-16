@@ -34,7 +34,7 @@ export default function Form() {
         </ul>
         <button>Надіслати</button>
       </form>
-      <img src={FormSvg} alt="alt-text" width="743" height="948" />
+      <img src={FormSvg} alt="alt-text" width="140" height="142" />
     </section>
   );
 }

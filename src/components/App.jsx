@@ -1,26 +1,32 @@
-// import React from 'react';
-import Header from './Header/Header';
-import Banner from './Banner/Banner';
+import React from 'react';
+
+import { GlobalStyle } from './GlobalStyles';
+
+// import Header from './Header/Header';
+// import Banner from './Banner/Banner';
 import AboutMe from './AboutMe/AboutMe';
-import Advantages from './Advantages/Advantages';
-import Favor from './Favor/Favor';
-import Form from './Form/Form';
-import MyWorks from './MyWorks/MyWorks';
-import Footer from './Footer/Footer';
+// import Advantages from './Advantages/Advantages';
+// import Favor from './Favor/Favor';
+// import Form from './Form/Form';
+// import MyWorks from './MyWorks/MyWorks';
+// import Certificate from './Certificate/Certificate';
+// import Footer from './Footer/Footer';
 
 export const App = () => {
   return (
-    <div>
-      <Header />
+    <>
+      <GlobalStyle />
+      {/* <Header /> */}
       <main>
-        <Banner />
+        {/* <Banner /> */}
         <AboutMe />
-        <Advantages />
+        {/* <Advantages />
         <Favor />
         <MyWorks />
         <Form />
+        <Certificate /> */}
       </main>
-      <Footer />
-    </div>
+      {/* <Footer /> */}
+    </>
   );
 };
