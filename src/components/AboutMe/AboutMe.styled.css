@@ -3,9 +3,9 @@
 } */
 
 .Vector {
-  width: 140px;
-  height: 142px;
-  transform: rotate(-12deg);
+  width: 150px;
+  height: 75px;
+  transform: rotate(0px);
   flex-shrink: 0;
   margin-top: -5px;
 }
@@ -16,31 +16,30 @@
 }
 
 .About {
-  margin-top: -72px;
-  margin-bottom: 16px;
+  margin-top: -17px;
+  margin-bottom: 20px;
 
   text-align: center;
   color: var(--text, #352d25);
-
   /* H2 mobile */
-  font-family: 'Great Vibes', cursive;
-  font-size: 36px;
-  font-style: normal;
+  font-family: Roboto;
+  font-size: 28px;
+  font-style: italic;
   font-weight: 400;
-  line-height: 150%; /* 48px */
+  line-height: 130%; /* 36.4px */
+  letter-spacing: 0.28px;
 }
 
 .About-img {
-  display: flex;
-  width: 440px;
-  padding: 10px 0px;
-  margin-bottom: 24px;
+  display: inline-flex;
+  padding: 16px;
+  justify-content: center;
   align-items: center;
-  gap: 4px;
+  gap: 10px;
 
-  border-radius: 0px 24px 0px 0px;
-  border-top: 1px solid var(--brand, #c08d58);
-  border-right: 1px solid var(--brand, #c08d58);
+  border-radius: 0px 24px 24px 0px;
+  border-top: 2px solid var(--amber, #f0e2ca);
+  border-right: 2px solid var(--amber, #f0e2ca);
 }
 
 .Photo {
@@ -57,22 +56,24 @@
   color: #292525;
 
   /* body mobile 2 */
-  font-family: Poppins;
+  font-family: Roboto;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
   line-height: 140%; /* 19.6px */
+  letter-spacing: 0.14px;
 }
 
 .About-item2 {
-  margin-bottom: 24px;
+  margin-bottom: 60px;
 
   color: #292525;
 
   /* body mobile 2 */
-  font-family: Poppins;
+  font-family: Roboto;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
   line-height: 140%; /* 19.6px */
+  letter-spacing: 0.14px;
 }
