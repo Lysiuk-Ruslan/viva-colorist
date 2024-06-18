@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/viva-colorist/static/css/main.eddeb31e.css",
-    "main.js": "/viva-colorist/static/js/main.85e2f247.js",
+    "main.css": "/viva-colorist/static/css/main.204ec8fe.css",
+    "main.js": "/viva-colorist/static/js/main.a9df269b.js",
     "static/media/monotypecorsiva.ttf": "/viva-colorist/static/media/monotypecorsiva.35bae48c4797388ebe4a.ttf",
-    "static/media/Vectordesktop.svg": "/viva-colorist/static/media/Vectordesktop.e4affe6c51875887572c0181637ebc58.svg",
-    "static/media/MyFotoMobile.webp": "/viva-colorist/static/media/MyFotoMobile.57f426ac95011f5f82bc.webp",
+    "static/media/MyFotoMobile.webp": "/viva-colorist/static/media/MyFotoMobile.bb84443d5b752a690c8f.webp",
+    "static/media/Vectordesktop.svg": "/viva-colorist/static/media/Vectordesktop.0ab0bd6f13e398a3d088cee11af2ffc7.svg",
     "index.html": "/viva-colorist/index.html",
-    "main.eddeb31e.css.map": "/viva-colorist/static/css/main.eddeb31e.css.map",
-    "main.85e2f247.js.map": "/viva-colorist/static/js/main.85e2f247.js.map"
+    "main.204ec8fe.css.map": "/viva-colorist/static/css/main.204ec8fe.css.map",
+    "main.a9df269b.js.map": "/viva-colorist/static/js/main.a9df269b.js.map"
   },
   "entrypoints": [
-    "static/css/main.eddeb31e.css",
-    "static/js/main.85e2f247.js"
+    "static/css/main.204ec8fe.css",
+    "static/js/main.a9df269b.js"
   ]
 }
