@@ -53,14 +53,12 @@ img {
   }
 
   @media screen and (min-width: 481px) and (max-width: 768px) {
-    background-color: orange;
     padding-left: 20px;
     padding-right: 20px;
     width: 768px;
   }
 
   @media screen and (min-width: 769px) and (max-width: 1920px) {
-    background-color: blue;
     padding-left: 160px;
     padding-right: 160px;
     width: 1920px;
