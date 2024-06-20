@@ -16,7 +16,7 @@ export default function AboutMe() {
           <div className="About-img">
             <img src={myPhoto} className="Photo" alt="alt-text" />
           </div>
-          <div className="About-item">
+          <div className="MyAbout">
             <p className="About-item-1">
               Мене звати Іванна Венгринська. <br></br> Я сертифікований майстер
               перукар-колорист. <br></br> Моя любов до перукарської справи
