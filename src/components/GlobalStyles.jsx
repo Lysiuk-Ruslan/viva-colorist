@@ -59,7 +59,7 @@ img {
     width: 768px;
   }
 
-  @media screen and (min-width: 769px) and (max-width: 3000px) {
+  @media screen and (min-width: 769px) and (max-width: 1920px) {
     padding-left: 160px;
     padding-right: 160px;
     width: 1920px;
