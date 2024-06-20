@@ -130,28 +130,8 @@
   }
 }
 
-.About-item-1 {
+.About-item {
   margin-bottom: 8px;
-
-  color: #292525;
-
-  font-family: Roboto;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 140%;
-  letter-spacing: 0.14px;
-
-  @media screen and (min-width: 769px) and (max-width: 1920px) {
-    color: var(--text, #352d25);
-
-    font-size: 32px;
-    letter-spacing: 0.32px;
-  }
-}
-
-.About-item-2 {
-  margin-bottom: 28px;
 
   color: #292525;
 
