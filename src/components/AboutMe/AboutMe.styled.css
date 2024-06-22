@@ -10,7 +10,7 @@
     margin-top: 15px;
   }
 
-  @media screen and (min-width: 1920px) {
+  @media screen and (min-width: 1200px) {
     width: 500px;
     height: 250px;
   }
@@ -43,12 +43,13 @@
     letter-spacing: 0.4px;
   }
 
-  @media screen and (min-width: 1920px) {
-    margin-bottom: 60px;
+  @media screen and (min-width: 1200px) {
+    margin-bottom: 48px;
 
-    font-size: 96px;
-    line-height: 150%;
-    letter-spacing: 0.96px;
+    font-size: 80px;
+    font-style: italic;
+
+    letter-spacing: 0.8px;
   }
 }
 
@@ -58,7 +59,7 @@
     margin-bottom: 84px;
   }
 
-  @media screen and (min-width: 1920px) {
+  @media screen and (min-width: 1200px) {
     display: flex;
     margin-bottom: 100px;
   }
@@ -88,15 +89,16 @@
     border-right: 1px solid var(--amber, #f0e2ca);
   }
 
-  @media screen and (min-width: 1920px) {
+  @media screen and (min-width: 1200px) {
     display: flex;
-    padding: 30px 30px 0px 0px;
+    padding: 20px 20px 20px 0px;
     justify-content: center;
     align-items: center;
     gap: 10px;
 
-    width: 740px;
-    margin-right: 60px;
+    width: 566px;
+    height: 740px;
+    margin-right: 30px;
 
     border-radius: 0px 24px 24px 0px;
     border-top: 1px solid var(--amber, #f0e2ca);
@@ -115,8 +117,9 @@
     width: 270px;
   }
 
-  @media screen and (min-width: 1920px) {
-    width: 740px;
+  @media screen and (min-width: 1200px) {
+    width: 546px;
+    height: 700px;
   }
 }
 
@@ -125,7 +128,7 @@
     width: 388px;
   }
 
-  @media screen and (min-width: 1920px) {
+  @media screen and (min-width: 1200px) {
     width: 710px;
   }
 }
@@ -133,7 +136,7 @@
 .About-item {
   margin-bottom: 8px;
 
-  color: #292525;
+  color: var(--text, #352d25);
 
   font-family: Roboto;
   font-size: 14px;
@@ -142,10 +145,10 @@
   line-height: 140%;
   letter-spacing: 0.14px;
 
-  @media screen and (min-width: 1920px) {
+  @media screen and (min-width: 1200px) {
     color: var(--text, #352d25);
 
-    font-size: 32px;
-    letter-spacing: 0.32px;
+    font-size: 28px;
+    letter-spacing: 0.28px;
   }
 }

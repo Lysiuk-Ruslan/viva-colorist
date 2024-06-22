@@ -62,9 +62,9 @@ img {
   }
 
   @media screen and (min-width: 1200px) {
-    padding-left: 160px;
-    padding-right: 160px;
-    width: 1920px;
+    padding-left: 0;
+    padding-right: 0;
+    width: 1200px;
   }
 
 }

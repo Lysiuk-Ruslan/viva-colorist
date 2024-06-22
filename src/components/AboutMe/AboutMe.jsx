@@ -1,7 +1,7 @@
 import React from 'react';
 import './AboutMe.styled.css';
 
-import myPhoto from 'img/Mobile/MyFotoMobile.webp';
+import myPhoto from 'img/Desktop/MyFotoDesktop.webp';
 import vectorDesktop from 'svg/Vectordesktop.svg';
 
 export default function AboutMe() {
