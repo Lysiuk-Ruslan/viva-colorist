@@ -47,23 +47,26 @@ img {
 }
 
 .container {
-  @media screen and (min-width: 0px) and (max-width: 480px) {
-    padding-left: 20px;
-    padding-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+  @media screen and (min-width: 480px) {
     width: 480px;
   }
 
-  @media screen and (min-width: 481px) and (max-width: 768px) {
-    padding-left: 20px;
-    padding-right: 20px;
+  @media screen and (min-width: 768px) {
     width: 768px;
   }
 
-  @media screen and (min-width: 769px) and (max-width: 1920px) {
+  @media screen and (min-width: 1200px) {
     padding-left: 160px;
     padding-right: 160px;
     width: 1920px;
   }
+
 }
 
 `;
