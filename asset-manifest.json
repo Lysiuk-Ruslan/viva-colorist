@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/viva-colorist/static/css/main.09780e44.css",
-    "main.js": "/viva-colorist/static/js/main.178a3bc5.js",
+    "main.css": "/viva-colorist/static/css/main.53016579.css",
+    "main.js": "/viva-colorist/static/js/main.6a09b129.js",
     "static/media/monotypecorsiva.ttf": "/viva-colorist/static/media/monotypecorsiva.35bae48c4797388ebe4a.ttf",
+    "static/media/Vector4.svg": "/viva-colorist/static/media/Vector4.70509ceb292806fe65031e7af2843797.svg",
     "static/media/MyFotoMobile.webp": "/viva-colorist/static/media/MyFotoMobile.bb84443d5b752a690c8f.webp",
     "static/media/Vectordesktop.svg": "/viva-colorist/static/media/Vectordesktop.0ab0bd6f13e398a3d088cee11af2ffc7.svg",
+    "static/media/Vector6.svg": "/viva-colorist/static/media/Vector6.c9446191f0d3db151e5073afdf66a209.svg",
+    "static/media/Vector3.svg": "/viva-colorist/static/media/Vector3.b28b78025f10399167e2777111c6048b.svg",
+    "static/media/Vector1.svg": "/viva-colorist/static/media/Vector1.650d2df6d242225d32b815db70930826.svg",
+    "static/media/Vector2.svg": "/viva-colorist/static/media/Vector2.d1977f6de585d1de385a55c4c798c142.svg",
+    "static/media/Vector5.svg": "/viva-colorist/static/media/Vector5.5bd21b7bfb3c45b9b14038fba9cf1f61.svg",
     "index.html": "/viva-colorist/index.html",
-    "main.09780e44.css.map": "/viva-colorist/static/css/main.09780e44.css.map",
-    "main.178a3bc5.js.map": "/viva-colorist/static/js/main.178a3bc5.js.map"
+    "main.53016579.css.map": "/viva-colorist/static/css/main.53016579.css.map",
+    "main.6a09b129.js.map": "/viva-colorist/static/js/main.6a09b129.js.map"
   },
   "entrypoints": [
-    "static/css/main.09780e44.css",
-    "static/js/main.178a3bc5.js"
+    "static/css/main.53016579.css",
+    "static/js/main.6a09b129.js"
   ]
 }
