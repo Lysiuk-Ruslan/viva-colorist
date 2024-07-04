@@ -1,5 +1,5 @@
 import React from 'react';
-import './Advantages.styles.css';
+import './Advantages.styles.scss';
 
 import Vector1 from 'svg/Vector1.svg';
 import Vector2 from 'svg/Vector2.svg';

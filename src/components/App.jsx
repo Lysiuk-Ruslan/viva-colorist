@@ -6,7 +6,7 @@ import { GlobalStyle } from './GlobalStyles';
 // import Banner from './Banner/Banner';
 import AboutMe from './AboutMe/AboutMe';
 import Advantages from './Advantages/Advantages';
-// import Favor from './Favor/Favor';
+import Favor from './Favor/Favor';
 // import Form from './Form/Form';
 // import MyWorks from './MyWorks/MyWorks';
 // import Certificate from './Certificate/Certificate';
@@ -21,7 +21,7 @@ export const App = () => {
         {/* <Banner /> */}
         <AboutMe />
         <Advantages />
-        {/* <Favor /> */}
+        <Favor />
         {/* <MyWorks /> */}
         {/* <Form /> */}
         {/* <Certificate />  */}
