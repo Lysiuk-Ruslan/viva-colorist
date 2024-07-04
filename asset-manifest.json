@@ -1,28 +1,42 @@
 {
   "files": {
-    "main.css": "/viva-colorist/static/css/main.eb22426e.css",
-    "main.js": "/viva-colorist/static/js/main.59fa7690.js",
+    "main.css": "/viva-colorist/static/css/main.6b01d409.css",
+    "main.js": "/viva-colorist/static/js/main.d2697dc0.js",
     "static/media/monotypecorsiva.ttf": "/viva-colorist/static/media/monotypecorsiva.35bae48c4797388ebe4a.ttf",
     "static/media/FavorDesktop2.webp": "/viva-colorist/static/media/FavorDesktop2.b90d15e0a58b347f5bb4.webp",
     "static/media/FavorDesktop5.webp": "/viva-colorist/static/media/FavorDesktop5.5613a210baf507630ac1.webp",
     "static/media/FavorDesktop1.webp": "/viva-colorist/static/media/FavorDesktop1.b02f2360a97350bb0dba.webp",
+    "static/media/SlaidDesktop8.webp": "/viva-colorist/static/media/SlaidDesktop8.ba8334bbfc24db12bb0f.webp",
+    "static/media/SlaidDesktop2.webp": "/viva-colorist/static/media/SlaidDesktop2.078df092c4b0a6de87c1.webp",
+    "static/media/SlaidDesktop6.webp": "/viva-colorist/static/media/SlaidDesktop6.b77f54ddd9d07b9be8ab.webp",
+    "static/media/SlaidDesktop7.webp": "/viva-colorist/static/media/SlaidDesktop7.ac4b55b689af5c641740.webp",
     "static/media/MyFotoDesktop.webp": "/viva-colorist/static/media/MyFotoDesktop.30b3ae41724f49e536dc.webp",
     "static/media/FavorDesktop4.webp": "/viva-colorist/static/media/FavorDesktop4.833e939e364f4622f6d7.webp",
     "static/media/FavorDesktop6.webp": "/viva-colorist/static/media/FavorDesktop6.b88eb30a599b41067272.webp",
     "static/media/FavorDesktop3.webp": "/viva-colorist/static/media/FavorDesktop3.b6f423d957ef3436cab7.webp",
+    "static/media/SlaidDesktop9.webp": "/viva-colorist/static/media/SlaidDesktop9.97b7de7f19c9a2e86a88.webp",
+    "static/media/SlaidDesktop3.webp": "/viva-colorist/static/media/SlaidDesktop3.291fe672d310180dd8ca.webp",
+    "static/media/SlaidDesktop10.webp": "/viva-colorist/static/media/SlaidDesktop10.1a2453270d0d2c72d836.webp",
+    "static/media/SlaidDesktop12.webp": "/viva-colorist/static/media/SlaidDesktop12.19a6f6e1af4d444bf251.webp",
+    "static/media/SlaidDesktop4.webp": "/viva-colorist/static/media/SlaidDesktop4.a0523fe8a0beeee7bdb3.webp",
+    "static/media/SlaidDesktop5.webp": "/viva-colorist/static/media/SlaidDesktop5.edd92272f6902f4310cb.webp",
+    "static/media/SlaidDesktop1.webp": "/viva-colorist/static/media/SlaidDesktop1.04c671de54ec12439fb6.webp",
     "static/media/Vector4.svg": "/viva-colorist/static/media/Vector4.70509ceb292806fe65031e7af2843797.svg",
     "static/media/Vectordesktop.svg": "/viva-colorist/static/media/Vectordesktop.0ab0bd6f13e398a3d088cee11af2ffc7.svg",
+    "static/media/SlaidDesktop11.webp": "/viva-colorist/static/media/SlaidDesktop11.65959d07396e95462e4e.webp",
+    "static/media/Rectangle.webp": "/viva-colorist/static/media/Rectangle.38658d00125973263368.webp",
     "static/media/Vector6.svg": "/viva-colorist/static/media/Vector6.c9446191f0d3db151e5073afdf66a209.svg",
     "static/media/Vector3.svg": "/viva-colorist/static/media/Vector3.b28b78025f10399167e2777111c6048b.svg",
+    "static/media/Instagram.svg": "/viva-colorist/static/media/Instagram.74114cb60afd095038a16a08d0d70b28.svg",
     "static/media/Vector1.svg": "/viva-colorist/static/media/Vector1.650d2df6d242225d32b815db70930826.svg",
     "static/media/Vector2.svg": "/viva-colorist/static/media/Vector2.d1977f6de585d1de385a55c4c798c142.svg",
     "static/media/Vector5.svg": "/viva-colorist/static/media/Vector5.5bd21b7bfb3c45b9b14038fba9cf1f61.svg",
     "index.html": "/viva-colorist/index.html",
-    "main.eb22426e.css.map": "/viva-colorist/static/css/main.eb22426e.css.map",
-    "main.59fa7690.js.map": "/viva-colorist/static/js/main.59fa7690.js.map"
+    "main.6b01d409.css.map": "/viva-colorist/static/css/main.6b01d409.css.map",
+    "main.d2697dc0.js.map": "/viva-colorist/static/js/main.d2697dc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb22426e.css",
-    "static/js/main.59fa7690.js"
+    "static/css/main.6b01d409.css",
+    "static/js/main.d2697dc0.js"
   ]
 }
