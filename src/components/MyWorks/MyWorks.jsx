@@ -42,15 +42,15 @@ export default function App() {
               slidesPerView: 1,
               spaceBetween: 10,
             },
-            '@2.00': {
+            '@0.75': {
               slidesPerView: 2,
               spaceBetween: 20,
             },
-            '@4.00': {
+            '@1.00': {
               slidesPerView: 3,
               spaceBetween: 40,
             },
-            '@6.00': {
+            '@1.50': {
               slidesPerView: 4,
               spaceBetween: 50,
             },
@@ -64,7 +64,7 @@ export default function App() {
           <SwiperSlide>
             <img src={SlaidDesktop2} alt="alt-text" width="300" />
           </SwiperSlide>
-          <SwiperSlide className="swiper-slide-boxes">
+          <SwiperSlide>
             <img src={SlaidDesktop3} alt="alt-text" width="300" />
           </SwiperSlide>
           <SwiperSlide>
