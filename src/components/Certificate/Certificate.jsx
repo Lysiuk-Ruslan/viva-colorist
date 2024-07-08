@@ -1,21 +1,60 @@
 import React from 'react';
-/* // import css from './Certificate.styles.css'; */
 
-import Certificate1 from 'img/Mobile/CertificateMobile1.webp';
-import Certificate2 from 'img/Desktop/CertificateDesktop2.jpg';
+// Import Swiper React components
+import { Swiper, SwiperSlide } from 'swiper/react';
 
-export default function Certificate() {
+// Import Swiper styles
+import 'swiper/css';
+import 'swiper/css/pagination';
+
+import './Certificate.styled.scss';
+
+// import required modules
+import { Pagination } from 'swiper/modules';
+
+import CertificateDesktop1 from 'img/Desktop/CertificateDesktop1.webp';
+import CertificateDesktop2 from 'img/Desktop/CertificateDesktop2.webp';
+
+export default function App() {
   return (
-    <section>
-      <h2>Сертифікати</h2>
-      <ul>
-        <li>
-          <img src={Certificate1} alt="Certificate1" width="320" />
-        </li>
-        <li>
-          <img src={Certificate2} alt="Certificate2" width="320" />
-        </li>
-      </ul>
+    <section className="Certificate">
+      <div className="container">
+        <h2 className="Certificate-Content">Сертифікати</h2>
+        <Swiper
+          slidesPerView={1}
+          spaceBetween={10}
+          pagination={{
+            clickable: true,
+          }}
+          breakpoints={{
+            '@0.00': {
+              slidesPerView: 1,
+              spaceBetween: 10,
+            },
+            '@0.75': {
+              slidesPerView: 2,
+              spaceBetween: 20,
+            },
+            '@1.00': {
+              slidesPerView: 3,
+              spaceBetween: 40,
+            },
+            '@1.50': {
+              slidesPerView: 4,
+              spaceBetween: 50,
+            },
+          }}
+          modules={[Pagination]}
+          className="mySwiper"
+        >
+          <SwiperSlide className="swiper-slide-container">
+            <img src={CertificateDesktop1} alt="alt-text" />
+          </SwiperSlide>
+          <SwiperSlide className="swiper-slide-container">
+            <img src={CertificateDesktop2} alt="alt-text" />
+          </SwiperSlide>
+        </Swiper>
+      </div>
     </section>
   );
 }
