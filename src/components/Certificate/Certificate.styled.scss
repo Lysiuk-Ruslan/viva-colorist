@@ -81,6 +81,10 @@ body {
 }
 
 .swiper-slide-container {
+    @media screen and (min-width: 768px) {
+        width: 349px !important;
+        height: 349px;
+    }
 
     @media screen and (min-width: 1200px) {
         width: 585px !important;

@@ -73,7 +73,6 @@ export default function App() {
           <SwiperSlide>
             <img src={SlaidDesktop5} alt="alt-text" width="300" />
           </SwiperSlide>
-
           <SwiperSlide>
             <img src={SlaidDesktop6} alt="alt-text" width="300" />
           </SwiperSlide>

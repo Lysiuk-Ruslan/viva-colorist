@@ -10,7 +10,7 @@ import Favor from './Favor/Favor';
 import MyWorks from './MyWorks/MyWorks';
 import Form from './Form/Form';
 import Certificate from './Certificate/Certificate';
-// import Footer from './Footer/Footer';
+import Footer from './Footer/Footer';
 
 export const App = () => {
   return (
@@ -26,7 +26,7 @@ export const App = () => {
         <Form />
         <Certificate />
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 };
