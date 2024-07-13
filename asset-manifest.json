@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/viva-colorist/static/css/main.384370c1.css",
-    "main.js": "/viva-colorist/static/js/main.9273fbdf.js",
+    "main.css": "/viva-colorist/static/css/main.8bd147f5.css",
+    "main.js": "/viva-colorist/static/js/main.0a93e4c4.js",
     "static/media/Form.svg": "/viva-colorist/static/media/Form.b1a316dbaef7dd49332975ba5b6acb95.svg",
+    "static/media/RectangleDesktop.png": "/viva-colorist/static/media/RectangleDesktop.badef19d5494bd980870.png",
+    "static/media/RectangleTablet.png": "/viva-colorist/static/media/RectangleTablet.a3ee28361651dbd6e694.png",
+    "static/media/RectangleMobile.png": "/viva-colorist/static/media/RectangleMobile.72561a226ede8e520b40.png",
     "static/media/monotypecorsiva.ttf": "/viva-colorist/static/media/monotypecorsiva.35bae48c4797388ebe4a.ttf",
     "static/media/CertificateDesktop1.webp": "/viva-colorist/static/media/CertificateDesktop1.6618cff6b483da0cf630.webp",
     "static/media/Logo.svg": "/viva-colorist/static/media/Logo.69a94cd501db8581525fa77fcc90b91e.svg",
     "static/media/FavorDesktop2.webp": "/viva-colorist/static/media/FavorDesktop2.b90d15e0a58b347f5bb4.webp",
     "static/media/FavorDesktop5.webp": "/viva-colorist/static/media/FavorDesktop5.5613a210baf507630ac1.webp",
     "static/media/FavorDesktop1.webp": "/viva-colorist/static/media/FavorDesktop1.b02f2360a97350bb0dba.webp",
-    "static/media/BannerDesktop.webp": "/viva-colorist/static/media/BannerDesktop.e84992fa620ba695c591.webp",
     "static/media/SlaidDesktop8.webp": "/viva-colorist/static/media/SlaidDesktop8.ba8334bbfc24db12bb0f.webp",
     "static/media/SlaidDesktop2.webp": "/viva-colorist/static/media/SlaidDesktop2.078df092c4b0a6de87c1.webp",
     "static/media/SlaidDesktop6.webp": "/viva-colorist/static/media/SlaidDesktop6.b77f54ddd9d07b9be8ab.webp",
@@ -24,7 +26,6 @@
     "static/media/SlaidDesktop10.webp": "/viva-colorist/static/media/SlaidDesktop10.1a2453270d0d2c72d836.webp",
     "static/media/SlaidDesktop12.webp": "/viva-colorist/static/media/SlaidDesktop12.19a6f6e1af4d444bf251.webp",
     "static/media/SlaidDesktop4.webp": "/viva-colorist/static/media/SlaidDesktop4.a0523fe8a0beeee7bdb3.webp",
-    "static/media/DfnnerTadlet.webp": "/viva-colorist/static/media/DfnnerTadlet.b456aad925adbeb8140a.webp",
     "static/media/SlaidDesktop5.webp": "/viva-colorist/static/media/SlaidDesktop5.edd92272f6902f4310cb.webp",
     "static/media/SlaidDesktop1.webp": "/viva-colorist/static/media/SlaidDesktop1.04c671de54ec12439fb6.webp",
     "static/media/Vector4.svg": "/viva-colorist/static/media/Vector4.70509ceb292806fe65031e7af2843797.svg",
@@ -32,7 +33,6 @@
     "static/media/Vectordesktop.svg": "/viva-colorist/static/media/Vectordesktop.0ab0bd6f13e398a3d088cee11af2ffc7.svg",
     "static/media/VectorFooter2.svg": "/viva-colorist/static/media/VectorFooter2.834cdf037b58e936db5544ba7c35c592.svg",
     "static/media/SlaidDesktop11.webp": "/viva-colorist/static/media/SlaidDesktop11.65959d07396e95462e4e.webp",
-    "static/media/BannerMobile.webp": "/viva-colorist/static/media/BannerMobile.1b5b31624f9cd1a2e7ac.webp",
     "static/media/Rectangle.webp": "/viva-colorist/static/media/Rectangle.38658d00125973263368.webp",
     "static/media/Vector6.svg": "/viva-colorist/static/media/Vector6.c9446191f0d3db151e5073afdf66a209.svg",
     "static/media/Ruka.svg": "/viva-colorist/static/media/Ruka.13e6019a5a02be74299e6b8e89449eff.svg",
@@ -46,11 +46,11 @@
     "static/media/Telegram.svg": "/viva-colorist/static/media/Telegram.31e59d43063d8dbb8a4e8ba6946f7670.svg",
     "index.html": "/viva-colorist/index.html",
     "static/media/Phone.svg": "/viva-colorist/static/media/Phone.9e3608a90d85bcbed0e646c9e8c6539f.svg",
-    "main.384370c1.css.map": "/viva-colorist/static/css/main.384370c1.css.map",
-    "main.9273fbdf.js.map": "/viva-colorist/static/js/main.9273fbdf.js.map"
+    "main.8bd147f5.css.map": "/viva-colorist/static/css/main.8bd147f5.css.map",
+    "main.0a93e4c4.js.map": "/viva-colorist/static/js/main.0a93e4c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.384370c1.css",
-    "static/js/main.9273fbdf.js"
+    "static/css/main.8bd147f5.css",
+    "static/js/main.0a93e4c4.js"
   ]
 }
