@@ -1,24 +1,28 @@
 .Banner {
-    padding-top: 252px;
-    background-size: 100% 100%;
 
-    background-image: url(../../img/Mobile/BannerMobile.webp);
-
-    @media screen and (min-width: 768px) {
-
-        background-image: url(../../img/Tablet/DfnnerTadlet.webp);
-    }
-
-    @media screen and (min-width: 1200px) {
-
-        background-image: url(../../img/Desktop/BannerDesktop.webp);
-
-
-    }
+    background-color: #0E0805;
 
 }
 
+.BannerGrup {
+    display: flex;
+
+
+    @media screen and (min-width: 768px) {
+        width: 600px;
+        height: 603px;
+
+    }
+
+    @media screen and (min-width: 768px) {
+        width: 906px;
+        height: 815px;
+    }
+}
+
 .BannerSubject {
+    margin-top: 240px;
+
 
     color: var(--white, #FEFDFA);
     font-family: Roboto;
@@ -31,13 +35,14 @@
     text-transform: capitalize;
 
     @media screen and (min-width: 768px) {
-
+        margin-top: 151px;
 
         font-size: 48px;
         text-transform: capitalize;
     }
 
     @media screen and (min-width: 1200px) {
+        margin-top: 155px;
 
         font-size: 80px;
 
@@ -45,6 +50,7 @@
 }
 
 .BannerSubtitle {
+    margin-bottom: 10px;
 
     font-family: Roboto;
     font-size: 40px;
@@ -74,7 +80,8 @@
 }
 
 .BannerText {
-    margin-bottom: 24px;
+
+    margin-bottom: 20px;
     width: 288px;
 
     color: var(--white, #FEFDFA);
@@ -100,6 +107,7 @@
 }
 
 .BannerButton {
+
     border: 0px;
     color: var(--text, #352D25);
 
@@ -140,4 +148,81 @@
 
 
     }
+}
+
+.BannerImage {
+    width: 440px;
+    height: 600px;
+    flex-shrink: 0;
+
+    z-index: 2;
+    position: relative;
+
+    @media screen and (min-width: 1200px) {
+        width: 600px;
+        height: 620px;
+    }
+
+}
+
+.BannerFoto {
+    width: 440px;
+    height: 600px;
+    background-image: url(../../img/Mobile/RectangleMobile.png);
+
+    background-color: #0E0805;
+
+    @media screen and (min-width: 768px) {
+        background-color: rgba(251, 253, 251, 0);
+        margin-left: 130px;
+        width: 600px;
+        height: 603px;
+        background-image: url(../../img/Tablet/RectangleTablet.png);
+    }
+
+    @media screen and (min-width: 1200px) {
+        margin-left: 320px;
+        width: 906px;
+        height: 815px;
+        background-image: url(../../img/Desktop/RectangleDesktop.png);
+    }
+}
+
+.qwerty {
+    position: absolute;
+    z-index: 3;
+
+    @media screen and (min-width: 1200px) {}
+
+}
+
+.qwe {
+    z-index: 1;
+    position: relative;
+
+    @media screen and (min-width: 768px) {
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 200px;
+        height: 200px;
+        flex-shrink: 0;
+
+        border-radius: 400px;
+        background: rgba(245, 232, 199, 0.45);
+        filter: blur(250px);
+    }
+
+    @media screen and (min-width: 1200px) {
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 400px;
+        height: 400px;
+        flex-shrink: 0;
+
+        border-radius: 400px;
+        background: rgba(245, 232, 199, 0.45);
+        filter: blur(250px);
+
+    }
+
 }
