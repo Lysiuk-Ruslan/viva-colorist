@@ -10,7 +10,7 @@ import FavorDesktop6 from 'img/Desktop/FavorDesktop6.webp';
 
 export default function Favor() {
   return (
-    <section>
+    <section id="Favor">
       <div className="container">
         <h2 className="Favor">Мої послуги</h2>
         <ul className="Favor-list">

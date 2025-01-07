@@ -2,7 +2,7 @@ import React from 'react';
 
 import { GlobalStyle } from './GlobalStyles';
 
-// import Header from './Header/Header';
+import Header from './Header/Header';
 import Banner from './Banner/Banner';
 import AboutMe from './AboutMe/AboutMe';
 import Advantages from './Advantages/Advantages';
@@ -16,7 +16,7 @@ export const App = () => {
   return (
     <>
       <GlobalStyle />
-      {/* <Header /> */}
+      <Header />
       <main>
         <Banner />
         <AboutMe />

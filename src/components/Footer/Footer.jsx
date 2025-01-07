@@ -13,7 +13,7 @@ import Ruka from 'svg/Ruka.svg';
 
 export default function Footer() {
   return (
-    <footer>
+    <footer id="Footer">
       <div className="container">
         <div className="Footer-Bloc">
           <img

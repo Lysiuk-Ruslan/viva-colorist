@@ -6,7 +6,7 @@ import vectorDesktop from 'svg/Vectordesktop.svg';
 
 export default function AboutMe() {
   return (
-    <section>
+    <section id="AboutMe">
       <div className="container">
         <div className={styles.AboutVector}>
           <img src={vectorDesktop} className={styles.Vector} alt="alt-text" />

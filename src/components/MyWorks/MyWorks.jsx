@@ -28,7 +28,7 @@ import SlaidDesktop12 from 'img/Swiper/Desktop/SlaidDesktop12.webp';
 
 export default function App() {
   return (
-    <section className="MyWorks">
+    <section id="MyWork" className="MyWorks">
       <div className="container">
         <h2 className="MyWorks-Content">Мої роботи</h2>
         <Swiper
