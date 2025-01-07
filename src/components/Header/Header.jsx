@@ -42,46 +42,48 @@ export default function Header() {
   }, []);
 
   return (
-    <header className="header">
-      <a className="header__logo" href="/">
-        <img
-          src={Logo}
-          className="header__image"
-          alt="alt-text"
-          width="200"
-          height="29"
-        />
-      </a>
-      <nav className={`header__nav ${isOpen ? 'active' : ''}`} ref={menuRef}>
-        <ul className="header__nav-list">
-          <li className="header__nav-item">
-            <a className="header__nav-a" href="#AboutMe">
-              Про мене
-            </a>
-          </li>
-          <li className="header__nav-item">
-            <a className="header__nav-a" href="#Favor">
-              Послуги
-            </a>
-          </li>
-          <li className="header__nav-item">
-            <a className="header__nav-a" href="#MyWork">
-              Галерея
-            </a>
-          </li>
-          <li className="header__nav-item">
-            <a className="header__nav-a" href="/">
-              Фарбування
-            </a>
-          </li>
-          <li className="header__nav-item">
-            <a className="header__nav-a" href="#Footer">
-              Контакти
-            </a>
-          </li>
-        </ul>
-      </nav>
-      <MenuButton isActive={isOpen} onClick={() => setOpen(!isOpen)} />
-    </header>
+    <section className="header">
+      <header className=" container">
+        <a className="header__logo" href="/">
+          <img
+            src={Logo}
+            className="header__image"
+            alt="alt-text"
+            width="200"
+            height="29"
+          />
+        </a>
+        <nav className={`header__nav ${isOpen ? 'active' : ''}`} ref={menuRef}>
+          <ul className="header__nav-list">
+            <li className="header__nav-item">
+              <a className="header__nav-a" href="#AboutMe">
+                Про мене
+              </a>
+            </li>
+            <li className="header__nav-item">
+              <a className="header__nav-a" href="#Favor">
+                Послуги
+              </a>
+            </li>
+            <li className="header__nav-item">
+              <a className="header__nav-a" href="#MyWork">
+                Галерея
+              </a>
+            </li>
+            <li className="header__nav-item">
+              <a className="header__nav-a" href="/">
+                Фарбування
+              </a>
+            </li>
+            <li className="header__nav-item">
+              <a className="header__nav-a" href="#Footer">
+                Контакти
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <MenuButton isActive={isOpen} onClick={() => setOpen(!isOpen)} />
+      </header>
+    </section>
   );
 }
