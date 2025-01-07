@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/viva-colorist/static/css/main.1f3d75e0.css",
+    "main.css": "/viva-colorist/static/css/main.e1e13d17.css",
     "main.js": "/viva-colorist/static/js/main.66c0efa1.js",
     "static/media/Form.svg": "/viva-colorist/static/media/Form.b1a316dbaef7dd49332975ba5b6acb95.svg",
     "static/media/RectangleDesktop.png": "/viva-colorist/static/media/RectangleDesktop.badef19d5494bd980870.png",
@@ -46,11 +46,11 @@
     "static/media/Telegram.svg": "/viva-colorist/static/media/Telegram.31e59d43063d8dbb8a4e8ba6946f7670.svg",
     "index.html": "/viva-colorist/index.html",
     "static/media/Phone.svg": "/viva-colorist/static/media/Phone.9e3608a90d85bcbed0e646c9e8c6539f.svg",
-    "main.1f3d75e0.css.map": "/viva-colorist/static/css/main.1f3d75e0.css.map",
+    "main.e1e13d17.css.map": "/viva-colorist/static/css/main.e1e13d17.css.map",
     "main.66c0efa1.js.map": "/viva-colorist/static/js/main.66c0efa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f3d75e0.css",
+    "static/css/main.e1e13d17.css",
     "static/js/main.66c0efa1.js"
   ]
 }
