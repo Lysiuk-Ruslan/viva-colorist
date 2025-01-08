@@ -52,6 +52,10 @@ img {
   margin-left: auto;
   margin-right: auto;
 
+  @media screen and (min-width: 320px) {
+    width: 100%;
+  }
+
 
   @media screen and (min-width: 480px) {
     width: 480px;
