@@ -1,11 +1,7 @@
 {
   "files": {
-    "main.css": "/viva-colorist/static/css/main.cb6f9fcc.css",
-    "main.js": "/viva-colorist/static/js/main.30734594.js",
-    "static/media/Form.svg": "/viva-colorist/static/media/Form.b1a316dbaef7dd49332975ba5b6acb95.svg",
-    "static/media/RectangleDesktop.png": "/viva-colorist/static/media/RectangleDesktop.badef19d5494bd980870.png",
-    "static/media/RectangleTablet.png": "/viva-colorist/static/media/RectangleTablet.a3ee28361651dbd6e694.png",
-    "static/media/RectangleMobile.png": "/viva-colorist/static/media/RectangleMobile.4f1f7350904366e99783.png",
+    "main.css": "/viva-colorist/static/css/main.463846e2.css",
+    "main.js": "/viva-colorist/static/js/main.5271afab.js",
     "static/media/monotypecorsiva.ttf": "/viva-colorist/static/media/monotypecorsiva.35bae48c4797388ebe4a.ttf",
     "static/media/CertificateDesktop1.webp": "/viva-colorist/static/media/CertificateDesktop1.6618cff6b483da0cf630.webp",
     "static/media/Logo.svg": "/viva-colorist/static/media/Logo.69a94cd501db8581525fa77fcc90b91e.svg",
@@ -46,11 +42,11 @@
     "static/media/Telegram.svg": "/viva-colorist/static/media/Telegram.31e59d43063d8dbb8a4e8ba6946f7670.svg",
     "index.html": "/viva-colorist/index.html",
     "static/media/Phone.svg": "/viva-colorist/static/media/Phone.9e3608a90d85bcbed0e646c9e8c6539f.svg",
-    "main.cb6f9fcc.css.map": "/viva-colorist/static/css/main.cb6f9fcc.css.map",
-    "main.30734594.js.map": "/viva-colorist/static/js/main.30734594.js.map"
+    "main.463846e2.css.map": "/viva-colorist/static/css/main.463846e2.css.map",
+    "main.5271afab.js.map": "/viva-colorist/static/js/main.5271afab.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb6f9fcc.css",
-    "static/js/main.30734594.js"
+    "static/css/main.463846e2.css",
+    "static/js/main.5271afab.js"
   ]
 }
