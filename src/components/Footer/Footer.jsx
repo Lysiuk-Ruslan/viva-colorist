@@ -87,7 +87,7 @@ export default function Footer() {
           </li>
           <li className="Footer-Social-icons">
             <a
-              href="https://www.instagram.com/viva_colorist?igsh=dXV1dzhvemNuemcx"
+              href="https://t.me/Ivanna_Venhrynska"
               target="_blank"
               rel="noopener noreferrer nofollow"
             >
@@ -96,7 +96,7 @@ export default function Footer() {
           </li>
           <li className="Footer-Social-icons">
             <a
-              href="https://www.instagram.com/viva_colorist?igsh=dXV1dzhvemNuemcx"
+              href="viber://chat?number=380973901222"
               target="_blank"
               rel="noopener noreferrer nofollow"
             >
@@ -108,7 +108,7 @@ export default function Footer() {
           <p className="Footer-Studio-text">WebStudio “R U K A”</p>
           <img src={Ruka} alt="alt-text" width="16" height="16" />
         </div>
-        <p className="Footer-Studio-logo">Всі права захищені 2024</p>
+        <p className="Footer-Studio-logo">Всі права захищені 2025</p>
       </div>
     </footer>
   );

@@ -15,11 +15,15 @@
 
 }
 
+
 .BannerGrup {
     display: flex;
 
+
     width: 440px;
     height: 600px;
+    align-items: center;
+    justify-content: center;
 
 
 
@@ -29,14 +33,17 @@
 
     }
 
-    @media screen and (min-width: 768px) {
+    @media screen and (min-width: 1200px) {
         width: 906px;
         height: 815px;
+
+        // align-items: flex-start;
     }
 }
 
 .BannerSubject {
     margin-top: 240px;
+    padding-left: 20px;
 
 
     color: var(--white, #FEFDFA);
@@ -66,6 +73,7 @@
 
 .BannerSubtitle {
     margin-bottom: 10px;
+    padding-left: 20px;
 
     font-family: Roboto;
     font-size: 40px;
@@ -95,7 +103,7 @@
 }
 
 .BannerText {
-
+    padding-left: 20px;
     margin-bottom: 20px;
     width: 288px;
 
@@ -122,7 +130,7 @@
 }
 
 .BannerButton {
-
+    margin-left: 20px;
     border: 0px;
     color: var(--text, #352D25);
 
@@ -181,15 +189,26 @@
 // }
 
 .BannerFoto {
-    width: 440px;
-    height: 600px;
-    background-image: url(../../img/Mobile/RectangleMobile.png);
 
-    background-color: #0E0805;
+    @media screen and (min-width: 320px) {
+        width: 320px;
+        height: 600px;
+        background-image: url(../../img/Mobile/RectangleMobile.png);
+
+        background-color: #0E0805;
+        flex-shrink: 0;
+
+    }
+
+
+    @media screen and (min-width: 480px) {
+        width: 440px;
+        background-image: url(../../img/Mobile/RectangleMobile.png);
+    }
 
     @media screen and (min-width: 768px) {
         background-color: rgba(251, 253, 251, 0);
-        margin-left: 125px;
+        margin-left: 148px;
         width: 600px;
         height: 603px;
         background-image: url(../../img/Tablet/RectangleTablet.png);
@@ -207,7 +226,13 @@
     position: absolute;
     z-index: 3;
 
-    @media screen and (min-width: 1200px) {}
+    @media screen and (min-width: 768px) {
+        margin-left: -305px;
+    }
+
+    @media screen and (min-width: 1200px) {
+        margin-left: -440px;
+    }
 
 }
 
