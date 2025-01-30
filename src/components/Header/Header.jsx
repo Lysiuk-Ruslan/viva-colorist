@@ -59,7 +59,7 @@ export default function Header() {
             ref={menuRef}
           >
             <ul className="header__nav-list">
-              <li className="header__nav-item">
+              <li className="header__nav-item :active">
                 <a className="header__nav-a" href="#AboutMe">
                   Про мене
                 </a>

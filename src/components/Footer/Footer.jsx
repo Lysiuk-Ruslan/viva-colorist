@@ -63,7 +63,7 @@ export default function Footer() {
             </a>
           </li>
           <li>
-            <a className="Footer-Address-List" href="tel:+380961111111">
+            <a className="Footer-Address-List" href="tel:+380973901222">
               <img
                 className="Footer-icon"
                 src={Phone}
@@ -71,7 +71,7 @@ export default function Footer() {
                 width="40"
                 height="40"
               />
-              <p className="Footer-Address-Item">+38 096 111 11 11</p>
+              <p className="Footer-Address-Item">+38 097 390 12 22</p>
             </a>
           </li>
         </ul>

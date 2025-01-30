@@ -51,6 +51,13 @@
     line-height: 130%;
     /* 18.2px */
 
+    & :hover,
+    & :focus,
+    & :active {
+        border-bottom: 1px solid #FFF;
+
+    }
+
     @media screen and (min-width: 1200px) {
         color: var(--white, #FEFDFA);
         font-size: 20px;

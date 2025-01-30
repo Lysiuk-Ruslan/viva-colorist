@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './AboutMe.module.scss';
 
-import myPhoto from 'img/Desktop/MyFotoDesktop.webp';
+import myPhoto from 'img/Desktop/MyFotoDesktop1.jpg';
 import vectorDesktop from 'svg/Vectordesktop.svg';
 
 export default function AboutMe() {
